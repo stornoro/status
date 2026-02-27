@@ -1,0 +1,43 @@
+owner: stornoro
+repo: status
+
+sites:
+  - name: Storno App
+    url: https://app.storno.ro
+    maxResponseTime: 2000
+    icon: https://raw.githubusercontent.com/stornoro/status/master/assets/favicon.ico
+
+  - name: Storno API
+    url: https://api.storno.ro/health
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+
+  - name: Landing Page
+    url: https://storno.ro
+    maxResponseTime: 3000
+
+  - name: Documentation
+    url: https://docs.storno.ro
+    maxResponseTime: 3000
+
+assignees:
+  - carcabot
+
+status-website:
+  cname: status.storno.ro
+  logoUrl: https://raw.githubusercontent.com/stornoro/status/master/assets/logo.png
+  favicon: https://raw.githubusercontent.com/stornoro/status/master/assets/favicon.ico
+  name: Storno Status
+  introTitle: "**Storno** is an invoicing and billing platform with e-Factura integration."
+  introMessage: This is the real-time and historical data on system performance for [Storno](https://storno.ro).
+  theme: light
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+    - title: Storno
+      href: https://storno.ro
