@@ -1,20 +1,9 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Markdown
+*.md linguist-detectable=true
+*.md linguist-documentation=false
 
-# Custom for Visual Studio
-*.cs     diff=csharp
+# JSON
+*.json linguist-detectable=true
 
-# Standard to msysgit
-*.doc	 diff=astextplain
-*.DOC	 diff=astextplain
-*.docx diff=astextplain
-*.DOCX diff=astextplain
-*.dot  diff=astextplain
-*.DOT  diff=astextplain
-*.pdf  diff=astextplain
-*.PDF	 diff=astextplain
-*.rtf	 diff=astextplain
-*.RTF	 diff=astextplain
-*.md linguist-detectable
-*.yml linguist-detectable
-*.json linguist-detectable
+# YAML
+*.yml linguist-detectable=true
