@@ -24,7 +24,7 @@ sites:
     maxResponseTime: 3000
 
 assignees:
-  - carcabot
+  - stornoro-bot
 
 status-website:
   cname: status.storno.ro
