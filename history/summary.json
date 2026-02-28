@@ -23,20 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.storno.ro.ico",
     "slug": "storno-api",
     "status": "down",
-    "uptime": "10.08%",
-    "uptimeDay": "10.08%",
-    "uptimeWeek": "10.08%",
-    "uptimeMonth": "10.08%",
-    "uptimeYear": "10.08%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 586,
     "timeDay": 586,
     "timeWeek": 586,
     "timeMonth": 586,
     "timeYear": 586,
-    "dailyMinutesDown": {
-      "2026-02-28": 73,
-      "2026-02-27": 184
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Landing Page",
