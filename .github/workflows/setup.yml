@@ -1,0 +1,44 @@
+name: Setup CI
+on:
+  push:
+    paths:
+      - ".upptimerc.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+  pages: write
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: upptime/uptime-monitor@v1.41.0
+        with:
+          command: "update-template"
+        env:
+          GH_PAT: ${{ secrets.GH_PAT || github.token }}
+      - uses: upptime/uptime-monitor@v1.41.0
+        with:
+          command: "response-time"
+        env:
+          GH_PAT: ${{ secrets.GH_PAT || github.token }}
+      - uses: upptime/uptime-monitor@v1.41.0
+        with:
+          command: "readme"
+        env:
+          GH_PAT: ${{ secrets.GH_PAT || github.token }}
+      - uses: upptime/uptime-monitor@v1.41.0
+        with:
+          command: "graphs"
+        env:
+          GH_PAT: ${{ secrets.GH_PAT || github.token }}
+      - uses: upptime/uptime-monitor@v1.41.0
+        with:
+          command: "site"
+        env:
+          GH_PAT: ${{ secrets.GH_PAT || github.token }}
+      - uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GH_PAT || github.token }}
+          publish_dir: ./site/status-page/__sapper__/export/
