@@ -4,10 +4,10 @@
     "url": "https://app.storno.ro",
     "icon": "https://raw.githubusercontent.com/stornoro/status/master/assets/favicon.ico",
     "slug": "storno-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 792,
@@ -15,7 +15,9 @@
     "timeWeek": 774,
     "timeMonth": 792,
     "timeYear": 792,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-21": 1
+    }
   },
   {
     "name": "Storno API",
