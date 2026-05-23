@@ -6,15 +6,15 @@
     "slug": "storno-app",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "88.43%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.35%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.86%",
-    "time": 802,
-    "timeDay": 915,
-    "timeWeek": 759,
-    "timeMonth": 802,
-    "timeYear": 802,
+    "time": 803,
+    "timeDay": 837,
+    "timeWeek": 792,
+    "timeMonth": 803,
+    "timeYear": 803,
     "dailyMinutesDown": {
       "2026-05-21": 167
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 581,
-    "timeDay": 483,
-    "timeWeek": 533,
-    "timeMonth": 581,
-    "timeYear": 581,
+    "time": 576,
+    "timeDay": 450,
+    "timeWeek": 532,
+    "timeMonth": 576,
+    "timeYear": 576,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 660,
-    "timeDay": 442,
+    "time": 656,
+    "timeDay": 542,
     "timeWeek": 619,
-    "timeMonth": 660,
-    "timeYear": 660,
+    "timeMonth": 656,
+    "timeYear": 656,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 671,
-    "timeDay": 536,
-    "timeWeek": 670,
-    "timeMonth": 671,
-    "timeYear": 671,
+    "time": 667,
+    "timeDay": 564,
+    "timeWeek": 672,
+    "timeMonth": 667,
+    "timeYear": 667,
     "dailyMinutesDown": {}
   }
 ]
