@@ -4,21 +4,21 @@
     "url": "https://app.storno.ro",
     "icon": "https://raw.githubusercontent.com/stornoro/status/master/assets/favicon.ico",
     "slug": "storno-app",
-    "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.88%",
-    "time": 971,
-    "timeDay": 537,
-    "timeWeek": 943,
-    "timeMonth": 1162,
-    "timeYear": 971,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.87%",
+    "time": 979,
+    "timeDay": 1001,
+    "timeWeek": 1052,
+    "timeMonth": 1183,
+    "timeYear": 979,
     "dailyMinutesDown": {
       "2026-05-21": 167,
       "2026-07-26": 122,
-      "2026-08-20": 1
+      "2026-08-20": 36
     }
   },
   {
@@ -26,19 +26,19 @@
     "url": "https://api.storno.ro/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.storno.ro.ico",
     "slug": "storno-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 548,
-    "timeDay": 352,
-    "timeWeek": 507,
-    "timeMonth": 521,
-    "timeYear": 548,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.52%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
+    "time": 549,
+    "timeDay": 434,
+    "timeWeek": 517,
+    "timeMonth": 524,
+    "timeYear": 549,
     "dailyMinutesDown": {
-      "2026-08-20": 1
+      "2026-08-20": 36
     }
   },
   {
@@ -46,19 +46,19 @@
     "url": "https://storno.ro",
     "icon": "https://icons.duckduckgo.com/ip3/storno.ro.ico",
     "slug": "landing-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 669,
-    "timeDay": 504,
-    "timeWeek": 631,
-    "timeMonth": 632,
+    "timeDay": 577,
+    "timeWeek": 641,
+    "timeMonth": 635,
     "timeYear": 669,
     "dailyMinutesDown": {
-      "2026-08-20": 0
+      "2026-08-20": 35
     }
   },
   {
@@ -66,17 +66,19 @@
     "url": "https://docs.storno.ro",
     "icon": "https://icons.duckduckgo.com/ip3/docs.storno.ro.ico",
     "slug": "documentation",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.55%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
     "time": 674,
-    "timeDay": 447,
-    "timeWeek": 585,
-    "timeMonth": 631,
+    "timeDay": 539,
+    "timeWeek": 600,
+    "timeMonth": 633,
     "timeYear": 674,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-20": 35
+    }
   }
 ]
