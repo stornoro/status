@@ -1,7 +1,7 @@
 url: https://api.storno.ro/health
-status: up
-code: 200
-responseTime: 575
-lastUpdated: 2026-08-19T23:12:08.844Z
+status: down
+code: 521
+responseTime: 128
+lastUpdated: 2026-08-20T08:40:05.169Z
 startTime: 2026-02-27T20:27:17.379Z
 generator: Upptime <https://github.com/upptime/upptime>
