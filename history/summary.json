@@ -5,16 +5,16 @@
     "icon": "https://raw.githubusercontent.com/stornoro/status/master/assets/favicon.ico",
     "slug": "storno-app",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.87%",
-    "time": 979,
-    "timeDay": 1261,
-    "timeWeek": 991,
-    "timeMonth": 1186,
-    "timeYear": 979,
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.88%",
+    "time": 978,
+    "timeDay": 785,
+    "timeWeek": 975,
+    "timeMonth": 956,
+    "timeYear": 978,
     "dailyMinutesDown": {
       "2026-05-21": 167,
       "2026-07-26": 122,
@@ -32,11 +32,11 @@
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 548,
-    "timeDay": 607,
-    "timeWeek": 506,
+    "time": 547,
+    "timeDay": 440,
+    "timeWeek": 491,
     "timeMonth": 517,
-    "timeYear": 548,
+    "timeYear": 547,
     "dailyMinutesDown": {
       "2026-08-20": 36
     }
@@ -52,11 +52,11 @@
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 669,
-    "timeDay": 772,
-    "timeWeek": 632,
+    "time": 667,
+    "timeDay": 524,
+    "timeWeek": 593,
     "timeMonth": 623,
-    "timeYear": 669,
+    "timeYear": 667,
     "dailyMinutesDown": {
       "2026-08-20": 35
     }
@@ -72,11 +72,11 @@
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 671,
-    "timeDay": 740,
-    "timeWeek": 589,
+    "time": 670,
+    "timeDay": 522,
+    "timeWeek": 563,
     "timeMonth": 607,
-    "timeYear": 671,
+    "timeYear": 670,
     "dailyMinutesDown": {
       "2026-08-20": 35
     }
